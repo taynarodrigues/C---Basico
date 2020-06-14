@@ -43,5 +43,6 @@ obj/
 *.exe
 *.out
 *.app
+*.txt
 
 # End of https://www.gitignore.io/api/codeblocks
