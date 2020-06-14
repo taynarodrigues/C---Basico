@@ -7,7 +7,7 @@ int main(void){
 	setlocale(LC_ALL, "");
 	
 	FILE *file;
-	file = fopen("grafo1.txt", "r");
+	file = fopen("string.txt", "r");
 	
 	if(file == NULL){
 		printf("Arquivo nao pode ser aberto\n");
