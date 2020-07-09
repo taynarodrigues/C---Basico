@@ -13,6 +13,8 @@ void main(){
     int b = 6;
     printf("%d ", a + b);
     printf("O valor de a é = %d", a);
+    scanf("%d", &a);
+    printf("\nO valor de a mudou para %d\n", a);
 
 
 
